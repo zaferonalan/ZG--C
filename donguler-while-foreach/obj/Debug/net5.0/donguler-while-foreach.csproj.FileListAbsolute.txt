@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
