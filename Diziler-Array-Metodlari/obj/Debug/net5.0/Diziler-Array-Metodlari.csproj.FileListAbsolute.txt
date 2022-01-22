@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\Diziler-Array-Metodlari.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\Diziler-Array-Metodlari.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\Diziler-Array-Metodlari.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\Diziler-Array-Metodlari.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\Diziler-Array-Metodlari.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\ref\Diziler-Array-Metodlari.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\bin\Debug\net5.0\Diziler-Array-Metodlari.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\ref\Diziler-Array-Metodlari.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Diziler-Array-Metodlari\obj\Debug\net5.0\Diziler-Array-Metodlari.genruntimeconfig.cache
