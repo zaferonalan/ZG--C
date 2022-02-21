@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\Metodlar.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\Metodlar.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\Metodlar.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\Metodlar.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\Metodlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\ref\Metodlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\bin\Debug\net5.0\Metodlar.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\ref\Metodlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Metodlar\obj\Debug\net5.0\Metodlar.genruntimeconfig.cache

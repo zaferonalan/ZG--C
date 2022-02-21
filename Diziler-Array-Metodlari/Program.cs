@@ -49,6 +49,7 @@ namespace Diziler_Array_Metodlari
         Console.WriteLine(sayi);
 
 
+        
 
         Console.ReadKey();
 
