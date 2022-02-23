@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\Rekürsif-Extension-Metotlar.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\Rekürsif-Extension-Metotlar.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\Rekürsif-Extension-Metotlar.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\Rekürsif-Extension-Metotlar.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\Rekürsif-Extension-Metotlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\ref\Rekürsif-Extension-Metotlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\bin\Debug\net5.0\Rekürsif-Extension-Metotlar.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\ref\Rekürsif-Extension-Metotlar.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Rekürsif-Extension-Metotlar\obj\Debug\net5.0\Rekürsif-Extension-Metotlar.genruntimeconfig.cache

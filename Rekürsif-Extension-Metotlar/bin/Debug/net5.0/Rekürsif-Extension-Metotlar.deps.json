@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rekürsif-Extension-Metotlar/1.0.0": {
+        "runtime": {
+          "Rekürsif-Extension-Metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rekürsif-Extension-Metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
