@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\Soru1.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\Soru1.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\Soru1.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\Soru1.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\Soru1.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\ref\Soru1.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\bin\Debug\net5.0\Soru1.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\ref\Soru1.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\AlgoritmaSoruları\Soru1\obj\Debug\net5.0\Soru1.genruntimeconfig.cache
