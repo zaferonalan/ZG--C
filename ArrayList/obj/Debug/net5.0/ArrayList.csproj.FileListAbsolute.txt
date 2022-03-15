@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ArrayList.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ArrayList.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ArrayList.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ref\ArrayList.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\bin\Debug\net5.0\ArrayList.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ref\ArrayList.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\ArrayList\obj\Debug\net5.0\ArrayList.genruntimeconfig.cache
