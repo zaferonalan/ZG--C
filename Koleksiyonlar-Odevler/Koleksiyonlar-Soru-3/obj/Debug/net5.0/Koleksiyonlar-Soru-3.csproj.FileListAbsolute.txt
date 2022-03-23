@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\ref\Koleksiyonlar-Soru-3.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\ref\Koleksiyonlar-Soru-3.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Koleksiyonlar-Odevler\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
