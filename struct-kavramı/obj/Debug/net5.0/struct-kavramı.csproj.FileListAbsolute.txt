@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\struct-kavramı.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\struct-kavramı.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\struct-kavramı.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\struct-kavramı.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\struct-kavramı.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\ref\struct-kavramı.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\bin\Debug\net5.0\struct-kavramı.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\ref\struct-kavramı.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\struct-kavramı\obj\Debug\net5.0\struct-kavramı.genruntimeconfig.cache
