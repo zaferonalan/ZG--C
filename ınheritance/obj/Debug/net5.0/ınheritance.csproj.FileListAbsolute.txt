@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ınheritance.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ınheritance.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ınheritance.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ınheritance.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ınheritance.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ref\ınheritance.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\bin\Debug\net5.0\ınheritance.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ref\ınheritance.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\ınheritance\obj\Debug\net5.0\ınheritance.genruntimeconfig.cache
