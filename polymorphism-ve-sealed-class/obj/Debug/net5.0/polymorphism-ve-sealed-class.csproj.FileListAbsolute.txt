@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\polymorphism-ve-sealed-class.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\polymorphism-ve-sealed-class.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\polymorphism-ve-sealed-class.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\polymorphism-ve-sealed-class.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\polymorphism-ve-sealed-class.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\ref\polymorphism-ve-sealed-class.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\bin\Debug\net5.0\polymorphism-ve-sealed-class.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\ref\polymorphism-ve-sealed-class.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\polymorphism-ve-sealed-class\obj\Debug\net5.0\polymorphism-ve-sealed-class.genruntimeconfig.cache

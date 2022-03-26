@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "polymorphism-ve-sealed-class/1.0.0": {
+        "runtime": {
+          "polymorphism-ve-sealed-class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polymorphism-ve-sealed-class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
