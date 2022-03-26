@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\arayuzler.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\arayuzler.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\arayuzler.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\ref\arayuzler.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\bin\Debug\net5.0\arayuzler.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\ref\arayuzler.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\arayuzler\obj\Debug\net5.0\arayuzler.genruntimeconfig.cache
