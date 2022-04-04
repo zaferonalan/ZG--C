@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\Abstract-ornek.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\Abstract-ornek.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\Abstract-ornek.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\Abstract-ornek.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\Abstract-ornek.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\ref\Abstract-ornek.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\bin\Debug\net5.0\Abstract-ornek.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\ref\Abstract-ornek.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\Abstract-ornek\obj\Debug\net5.0\Abstract-ornek.genruntimeconfig.cache
