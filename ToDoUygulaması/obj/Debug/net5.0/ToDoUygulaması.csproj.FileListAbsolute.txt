@@ -1,0 +1,16 @@
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ToDoUygulaması.exe
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ToDoUygulaması.deps.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ToDoUygulaması.runtimeconfig.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ToDoUygulaması.runtimeconfig.dev.json
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ToDoUygulaması.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ref\ToDoUygulaması.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\bin\Debug\net5.0\ToDoUygulaması.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.csproj.AssemblyReference.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.AssemblyInfoInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.AssemblyInfo.cs
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ref\ToDoUygulaması.dll
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.pdb
+C:\Users\zafer\Desktop\ZGÖ-C#\ToDoUygulaması\obj\Debug\net5.0\ToDoUygulaması.genruntimeconfig.cache
